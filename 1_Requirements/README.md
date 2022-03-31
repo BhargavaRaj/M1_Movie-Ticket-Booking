@@ -25,5 +25,8 @@
 *Provides the searching facilities based on various factors. Such as Movie, Customer, Show timing, etc.
 
 *Encrypted webpage to ensure customer privacy and transaction security
+
+# 1_Requirements/swot-analysis.png
+hggjhvhv
  
  
