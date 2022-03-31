@@ -7,7 +7,6 @@
 # Features
 *Booking tickets
 *Cancel tickets
-*View all tickets
 # Benefits
 *Provide a detailed information about movies, shows,etc.
 *Provides the searching facilities based on various factors. Such as Movie, Customer, Show timing, etc.
