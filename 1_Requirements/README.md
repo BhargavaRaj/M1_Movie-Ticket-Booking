@@ -7,4 +7,4 @@
 
 *Online movie ticket booking is measurable, cost effective and has good interface.Customers can make online ticket booking at any instance of 24 hours a day.And therefore they can book tickets from anywhere around the world.
 
- # structure
+ # Structure
