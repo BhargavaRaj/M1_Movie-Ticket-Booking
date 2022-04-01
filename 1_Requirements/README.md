@@ -8,7 +8,7 @@ When you avail some of the  reservation for movie ticket seats, then you can not
 4W's and 1'H
 # Who
 * Theater
-# vWhat
+# What
 * To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
 # When
 * When user wants to carry out the tasks quickly and this reduces manual work and saves time
