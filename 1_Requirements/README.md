@@ -7,12 +7,12 @@ The feature of movie ticket booking is that we can easily book the tickets and i
 When you avail some of the  reservation for movie ticket seats, then you can not only save yourself money on the tickets that you are purchasing, but also getting them well in advance. These days the cinemas fill up fast, especially during holidays and on the weekends, which means that you might find yourself without a ticket. However, if you book them online, then you will be able to get seats from the quota that is reserved for online booking. You can choose whatever seat you want and then book it without having to worry. Use some of the justickets gift card code to get some great deals, including reservation and more. It also Provides a detailed information about movies, shows,etc. And Provides the searching facilities based on various factors Such as Movie, Customer, Show timing, etc. It also contains Encrypted webpage to ensure customer privacy and transaction security.
 4W's and 1'H
 ## Who
-* Theater
+*  Theater
 ## What
-* To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
+*  To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
 ## When
-* When user wants to carry out the tasks quickly and this reduces manual work and saves time
+*  When user wants to carry out the tasks quickly and this reduces manual work and saves time
 ## Where
-* This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
+*  This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
 ## How
-* By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+*  By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
