@@ -12,3 +12,4 @@
 *Provide a detailed information about movies, shows,etc.
 *Provides the searching facilities based on various factors. Such as Movie, Customer, Show timing, etc.
 *Encrypted webpage to ensure customer privacy and transaction security
+# swot
