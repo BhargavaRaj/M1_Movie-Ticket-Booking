@@ -6,7 +6,7 @@ The feature of movie ticket booking is that we can easily book the tickets and i
 ## Benefits
 When you avail some of the  reservation for movie ticket seats, then you can not only save yourself money on the tickets that you are purchasing, but also getting them well in advance. These days the cinemas fill up fast, especially during holidays and on the weekends, which means that you might find yourself without a ticket. However, if you book them online, then you will be able to get seats from the quota that is reserved for online booking. You can choose whatever seat you want and then book it without having to worry. Use some of the justickets gift card code to get some great deals, including reservation and more. It also Provides a detailed information about movies, shows,etc. And Provides the searching facilities based on various factors Such as Movie, Customer, Show timing, etc. It also contains Encrypted webpage to ensure customer privacy and transaction security.
 ## SWAT ANALYSIS
-![SWOT Analysis] (https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/5e5c41bef4d301ee2b62a99b902fde6401db243c/1_Requirements/swot-analysis.png)
+![SWOT Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/5e5c41bef4d301ee2b62a99b902fde6401db243c/1_Requirements/swot-analysis.png)
 
 #### 4W's and 1'H
 ## Who
