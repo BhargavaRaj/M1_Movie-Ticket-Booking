@@ -16,4 +16,5 @@ When you avail some of the  reservation for movie ticket seats, then you can not
 *  This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
 ## How
 *  By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
-https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/5e5c41bef4d301ee2b62a99b902fde6401db243c/1_Requirements/swot-analysis.png
+## SWAT ANALYSIS
+![SWOT Analysis] (https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/5e5c41bef4d301ee2b62a99b902fde6401db243c/1_Requirements/swot-analysis.png)
