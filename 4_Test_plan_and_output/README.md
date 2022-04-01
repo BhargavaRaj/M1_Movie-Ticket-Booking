@@ -7,6 +7,6 @@
 |  T_03|H_02|Display the  details of movie available|  Enter movie name | Display list | Display list | PASS |
 |  T_04|H_02| Purchase a ticket for the movie available | enter choice | ThankYou for Booking Ticket | ThankYou for Booking Ticket| PASS |
 |  T_05|H_03|  Summary of a ticket for purchased movie| enter choice | Customer name,Show Name,Price | Customer name,Show Name,Price| PASS |
-|  T_06|H_03|To view the reserved ticke |password| summary of tickeT|summary of ticket | PASS |
+|  T_06|H_03|To view the reserved ticke |password| summary of ticket|summary of ticket | PASS |
 
 
