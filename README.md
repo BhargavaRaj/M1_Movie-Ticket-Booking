@@ -7,8 +7,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/282784d679a74a328d775fb4a02c592c)](https://www.codacy.com/gh/BhargavaRaj/M1_Movie-Ticket-Booking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BhargavaRaj/M1_Movie-Ticket-Booking&amp;utm_campaign=Badge_Grade)
 [![Code Quality - Cppcheck](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/c-cpp.yml)
 [![Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml)
-[![Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml)
-[![Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml)
+
 
 ## Folder Structure
 Folder             | Description
