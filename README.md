@@ -8,6 +8,7 @@
 [![Code Quality - Cppcheck](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/c-cpp.yml)
 [![Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml)
 [![Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml)
+[![Analysis](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml/badge.svg)](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/actions/workflows/analysis.yml)
 
 ## Folder Structure
 Folder             | Description
