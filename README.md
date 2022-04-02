@@ -5,3 +5,12 @@
 ![Codiga Grade](https://api.codiga.io/project/32272/status/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/282784d679a74a328d775fb4a02c592c)](https://www.codacy.com/gh/BhargavaRaj/M1_Movie-Ticket-Booking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BhargavaRaj/M1_Movie-Ticket-Booking&amp;utm_campaign=Badge_Grade)
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements
+`2_Architecture`   | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`6_Images`         | Screen-shots of the working code
