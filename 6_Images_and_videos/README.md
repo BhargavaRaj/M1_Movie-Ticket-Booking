@@ -3,3 +3,4 @@
 ![screen](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/829d1405c714e2b8d51a06b595872c31c14f4386/6_Images_and_videos/Screenshot%202022-04-02%20073128.png)
 ![screen](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/80df3a21798e5b32dc1b477e0ef0c21069dbd803/6_Images_and_videos/Screenshot%202022-04-02%20073537.png)
 ![screen](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/f363bc170ea3ac60dd590112cba389293728c2d4/6_Images_and_videos/Screenshot%202022-04-02%20075902.png)
+![screen](https://github.com/BhargavaRaj/M1_Movie-Ticket-Booking/blob/68b4d04d9aec18682ee8e88380d3aa221d32f054/6_Images_and_videos/Screenshot%202022-04-02%20073758.png)
